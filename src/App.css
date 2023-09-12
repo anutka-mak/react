@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100px;
+}
